@@ -2,13 +2,12 @@ Coursera_Getting_and_Cleaning_Data_Project
 ==========================================
 
 Coursera Getting and Cleaning Data Project
+==================================================================
 
 Uses the Data from the source below
-
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Universit‡ degli Studi di Genova.
